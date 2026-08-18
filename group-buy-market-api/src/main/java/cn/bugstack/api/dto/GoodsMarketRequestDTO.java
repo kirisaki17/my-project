@@ -6,6 +6,7 @@ import lombok.Data;
  * @author Fuzhengwei bugstack.cn @小傅哥
  * @description 商品营销请求对象
  * @create 2025-02-02 12:19
+ * 111111
  */
 @Data
 public class GoodsMarketRequestDTO {
